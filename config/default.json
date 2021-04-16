@@ -1,4 +1,6 @@
 {
-  "mongoURI": "",
-  "jwtSecret": ""
+  "mongoURI": "mongodb+srv://ccoates14:ZedZed1234@cluster1.gykcn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "asecret",
+  "githubClientId": "3c0bb51c633719a97ea9",
+  "githubSecret": "6ce4f9e111975fef399e26abd670d4d1a4d1c290"
 }
